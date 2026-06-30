@@ -1,7 +1,7 @@
 # Ferrite-FEM-Sample-Notebook
 A Pluto.jl notebook containing an example of a how you can use Ferrite.jl to solve a physical problem using the finite element menthod (FEM). This walkthrough follows the implementation of a heat equation solver coupled with a kinetic based metallic phase to hardness estimator.
 ## The code lives here
-
+![QR Code](./qr%20codes/vector.svg)
 ## How to run
 1. Install the Julia programming language from julialang.org
 2. Clone this repositiory (or alternatively download all the files).
