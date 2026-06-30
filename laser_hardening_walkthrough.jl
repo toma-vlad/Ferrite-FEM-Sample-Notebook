@@ -1159,7 +1159,7 @@ WGLMakie = "~0.13.12"
 PLUTO_MANIFEST_TOML_CONTENTS = """
 # This file is machine-generated - editing it directly is not advised
 
-julia_version = "1.12.5"
+julia_version = "1.12.6"
 manifest_format = "2.0"
 project_hash = "25df39a3b5be514c1be70ed3d3a44f980c21aa16"
 
